@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.laura.banco.main"},{"l":"br.com.laura.banco.util"}];updateSearchResults();
